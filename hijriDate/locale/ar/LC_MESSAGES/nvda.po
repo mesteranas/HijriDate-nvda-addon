@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-02-24 15:07+0200\n"
+"PO-Revision-Date: 2024-02-24 15:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:12
+msgid "hijri date"
+msgstr "التاريخ الهجري"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Dhu al-Hijjah"
+msgstr "ذو الحجة"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Dhu al-Qi'dah"
+msgstr "ذو القعدة"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Jumada al-awwal"
+msgstr "جماد الأول"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Jumada al-thani"
+msgstr "جماد الثاني"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Muharram"
+msgstr "محرم"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Rabi' al-awwal"
+msgstr "ربيع الأول"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Rabi' al-thani"
+msgstr "ربيع الثاني"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Rajab"
+msgstr "رجب"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Ramadan"
+msgstr "رمضان"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Safar"
+msgstr "سفر"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Sha'ban"
+msgstr "شعبان"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:16
+msgid "Shawwal"
+msgstr "شوال"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\hijriDate\globalPlugins\hijriDate\__init__.py:20
+msgid "say current hijri date"
+msgstr "نطق التاريخ الهجري الحالي"
